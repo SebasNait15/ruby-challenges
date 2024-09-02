@@ -4,7 +4,7 @@
 # Identify from a array of numers how many are prime and show them. 
 # Solve by Sebastian Ibarra
 
-numbers=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+numbers=[]
 prime=[]
 continue = true
 element = 0
