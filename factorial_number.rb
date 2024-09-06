@@ -1,3 +1,8 @@
+# CHALLENGE 4 
+#
+# Calculate the factorial of a number. this number must be natural
+# Solved by: Sebastian Ibarra
+
 require_relative 'functions'
 
 def factorial_number(number, result)
